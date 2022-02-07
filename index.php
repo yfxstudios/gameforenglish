@@ -1,0 +1,1 @@
+echo "<h1> My Game </h1>" > index.html 
