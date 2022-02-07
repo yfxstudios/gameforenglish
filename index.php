@@ -1,1 +1,2 @@
-echo "<h1> My Game </h1>" > index.html 
+<?php include_once(“home.html”); ?>
+<?php include_once(“home.html”); ?>
